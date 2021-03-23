@@ -14,18 +14,18 @@
 			<header>Realtime Chat App</header>
 			<form action="">
 				<div class="error-txt">This is an error message!</div>
-					<div class="field input">
-						<label>Email</label>
-						<input type="text" name="" placeholder="Enter your email">
-					</div>
-					<div class="field input">
-						<label>Password</label>
-						<input type="password" name="" placeholder="Enter your password">
-						<i class="fas fa-eye eye"></i>
-					</div>
-					<div class="field button">
-						<input type="submit" value="Continue to Chat">
-					</div>
+				<div class="field input">
+					<label>Email</label>
+					<input type="text" name="" placeholder="Enter your email">
+				</div>
+				<div class="field input">
+					<label>Password</label>
+					<input type="password" name="" placeholder="Enter your password">
+					<i class="fas fa-eye eye"></i>
+				</div>
+				<div class="field button">
+					<input type="submit" value="Continue to Chat">
+				</div>
 
 			</form>
 			<div class="link">Haven't an account ? <a href="#">Sign up</a></div>
